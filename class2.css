@@ -1,0 +1,138 @@
+body, h1, h2, h3, h4{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: hsl(0, 0%, 98%);
+    width: 100%;
+    height: fit-content;
+}
+.h-text{
+    font-family: 'Poppins , sans-serif';
+    text-align: center;
+    color: hsl(234, 12%, 34%);
+}
+.h-text h3{
+    font-weight: 200;
+    font-size: 25px;
+    padding-bottom: 7px;
+}
+.h-text h2{
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.h-text p{
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0px 450px;
+    color: hsl(229, 6%, 66%);
+}
+.c-container{
+    display:flex ;
+    justify-content: center;
+   
+  
+}
+.card{
+    background-color: #fff;
+    box-shadow: 0 20px 20px rgba(0,0,0, 0.5)  ;
+    border-radius: 15px;
+    border-top:2px solid hsl(180, 62%, 55%);
+    padding: 30px;
+    width: 250px;
+    margin-top: 100px;
+    height: fit-content;
+}
+.card h4{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    font-size: 20px;
+}
+.card p{
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+
+}
+.card span{
+    display: flex;
+    justify-content:end ;
+}
+.car{
+    background-color: #fff;
+    box-shadow: 0 20px 20px rgba(0,0,0, 0.5)  ;
+    border-radius: 15px;
+    border-top:2px solid hsl(0, 78%, 62%);
+    padding: 30px;
+    position: relative;
+    margin: 15px;
+    width: 250px;
+}
+.car h4{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    font-size: 15px;
+}
+.car p{
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+
+}
+.car span{
+    display: flex;
+    justify-content:end ;
+}
+.ca{
+    background-color: #fff;
+    box-shadow: 0 20px 20px rgba(0,0,0, 0.5) ;
+    border-radius: 15px;
+    border-top:2px solid hsl(34, 97%, 64%);
+    padding: 30px;
+    position: relative;
+    margin:14px;
+    width: 250px;
+}
+.ca h4{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    font-size: 15px;
+}
+.ca p{
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+
+}
+.ca span{
+    display: flex;
+    justify-content:end ;
+}
+.c{
+    background-color: #fff;
+    box-shadow: 0 20px 20px rgba(0,0,0, 0.5)  ;
+    border-radius: 15px;
+    border-top:2px solid hsl(212, 86%, 64%);
+    padding: 30px;
+    position: relative;
+    margin-top: 100px;
+    width: 250px;
+    height: fit-content;
+}
+.c h4{
+    color: hsl(234, 12%, 34%);
+    font-weight: 600;
+    font-size: 15px;
+}
+.c p{
+    font-size: 14px;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+
+}
+.c span{
+    display: flex;
+    justify-content:end ;
+}
+
